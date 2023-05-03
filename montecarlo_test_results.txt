@@ -1,0 +1,23 @@
+test_change_weight (__main__.MonteCarloTestSuite)
+Tests to see if the weight was correctly changed for the specified die face ... ok
+test_combo (__main__.MonteCarloTestSuite)
+Tests the combo method of the analyzer class ... ok
+test_die_created (__main__.MonteCarloTestSuite)
+Tests to determine that all the present die faces has a weight of 1.0 ... ok
+test_face_counts_per_roll (__main__.MonteCarloTestSuite)
+Tests to see if the face counts df matches the correct shape for num of rolls and dice ... ok
+test_jackpot (__main__.MonteCarloTestSuite)
+Tests to see if the jackpots that the analyzer finds matches the jackpots count/jackpots actual hit. I created this forcing it to hit a certain amount ... ok
+test_play_game (__main__.MonteCarloTestSuite)
+Tests the play method to assess whether the corrrect number of columns and rows are made ... ok
+test_roll (__main__.MonteCarloTestSuite)
+Tests to see if the roll method works and outputs the correct value ... ok
+test_show_die (__main__.MonteCarloTestSuite)
+Tests to see if df created has the right dimensions ... ok
+test_show_results (__main__.MonteCarloTestSuite)
+Tests to see if the show_results method defaults correctly (to the wide format) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.035s
+
+OK
